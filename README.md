@@ -1,3 +1,1 @@
-![](C:\Users\stls\Desktop\BadApple\prev.png)
-
-
+![](prev.png)
